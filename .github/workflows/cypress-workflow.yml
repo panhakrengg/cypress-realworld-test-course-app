@@ -1,7 +1,7 @@
 name: Cypress Run
 
 
-on: push
+on: [push]
 
 jobs:
   cypress-run:
