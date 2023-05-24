@@ -16,3 +16,4 @@ describe("User Journey", () => {
     )
   })
 })
+export {};
