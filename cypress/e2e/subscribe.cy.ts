@@ -23,3 +23,4 @@ describe("Newsletter Subscribe Form", () => {
       .contains("already exists. Please use a different email address.")
   })
 })
+export {};
